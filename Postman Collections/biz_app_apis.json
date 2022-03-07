@@ -3277,7 +3277,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n    \"mobile_no\": \"9899693582\",\n    \"country_code\": \"91\",\n    \"supplier_id\": \"1\"\n}"
+              "raw": "{\n    \"mobile_no\": \"9000000000\",\n    \"country_code\": \"91\",\n    \"supplier_id\": \"1\"\n}"
             },
             "url": "{{url}}/set_proxy_user"
           },
@@ -8145,42 +8145,42 @@
   ],
   "variable": [
     {
-      "id": "24e21bab-7a72-4294-b225-ba1797689087",
+      "id": "d0d5ddbf-0b3f-4bb4-8c52-2b976342914c",
       "key": "supplier_id",
       "value": "202"
     },
     {
-      "id": "d571a655-c267-4590-9b59-51887b0e52ed",
+      "id": "784f5b88-92f5-43bd-9138-9cc9c4dbcb86",
       "key": "phone_number",
       "value": "9000000000"
     },
     {
-      "id": "61f5fb0f-f98b-4e90-ad64-2d58cb557af7",
+      "id": "f75139d7-f639-468f-9799-2849293765fc",
       "key": "order_number",
       "value": "R546215933"
     },
     {
-      "id": "d664da52-75f3-4a1f-b619-193b9f980fa7",
+      "id": "7a476979-3f80-413f-8874-1eca21d4c6f7",
       "key": "country_code",
       "value": "91"
     },
     {
-      "id": "0061b05a-a0e4-43fe-8a1e-16709589a9c5",
+      "id": "3a855983-b9b8-4231-b09d-56fcd9f3aafa",
       "key": "access_token",
       "value": "yuN7L84Tr6-NJNSXo_7xXg"
     },
     {
-      "id": "b9643365-f2f0-4c43-8f84-796b8fd7ba91",
+      "id": "6dbddb96-3a9f-4cae-9891-486aa32351d6",
       "key": "client",
       "value": "c-Jg7ma01p_li4zg3mOieg"
     },
     {
-      "id": "ae00b3bf-e0aa-4743-a4c0-50903b6d18e2",
+      "id": "53c0fd07-3a6a-4239-bf65-e908652423c9",
       "key": "uid",
       "value": "marrihari204@gmail.com"
     },
     {
-      "id": "ab7fc899-720f-49f0-b5f4-4eb80031106e",
+      "id": "04d0fa20-bed0-4e90-bba1-22dbd478b99f",
       "key": "proxy_token",
       "value": "cffca7a8488362dca9fe3e7d83c0e66880c58fab20dfbacd"
     }
