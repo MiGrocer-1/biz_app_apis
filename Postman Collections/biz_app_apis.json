@@ -8122,7 +8122,20 @@
     },
     {
       "name": "Store Management",
-      "item": [],
+      "item": [
+        {
+          "name": "New Request",
+          "id": "a2c52d5e-0a9e-48f6-b76c-ad8ab23b08cc",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": []
+        }
+      ],
       "id": "bac58ecb-ef3c-41e9-abec-cdff4cef2c50"
     }
   ],
@@ -8150,42 +8163,42 @@
   ],
   "variable": [
     {
-      "id": "5389d956-c8f7-4217-af52-5ce308a42a8b",
+      "id": "c82eb942-f2b4-4b82-8d87-67ba18f9dc1f",
       "key": "supplier_id",
       "value": "202"
     },
     {
-      "id": "0c7c327e-7f34-4ed2-9c29-b668209788c1",
+      "id": "e8f37ef4-9870-49b6-ba3a-0300b8af0102",
       "key": "phone_number",
       "value": "9000000000"
     },
     {
-      "id": "173c56f5-1e48-4477-b5af-7a20e2b0a4b0",
+      "id": "1973a174-faef-4395-9394-fedfd946baaf",
       "key": "order_number",
       "value": "R546215933"
     },
     {
-      "id": "0fa9bb20-a75e-4029-8a3a-c5f3c767848c",
+      "id": "4a0e29fa-6429-4cad-b226-b5a867300b00",
       "key": "country_code",
       "value": "91"
     },
     {
-      "id": "93fbf09a-74b7-4270-8651-79f40f460e6b",
+      "id": "bf770dd1-8617-4f18-b516-6fc2af974fb5",
       "key": "access_token",
       "value": "yuN7L84Tr6-NJNSXo_7xXg"
     },
     {
-      "id": "1e92ee88-6f46-4757-9be4-ab6a394e0249",
+      "id": "cce85134-e354-4f05-96bb-07fecb580994",
       "key": "client",
       "value": "c-Jg7ma01p_li4zg3mOieg"
     },
     {
-      "id": "b1baf441-eca3-43cf-9c43-247c8d499cf8",
+      "id": "aae9abb5-83ce-4305-817e-155a115cf469",
       "key": "uid",
       "value": "marrihari204@gmail.com"
     },
     {
-      "id": "0c5fb365-17a8-45ac-bcb8-decddb659748",
+      "id": "45369588-d64d-427f-b942-0a82eca4a81e",
       "key": "proxy_token",
       "value": "cffca7a8488362dca9fe3e7d83c0e66880c58fab20dfbacd"
     }
