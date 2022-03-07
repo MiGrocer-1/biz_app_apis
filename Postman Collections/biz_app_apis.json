@@ -8124,7 +8124,7 @@
       "name": "Store Management",
       "item": [
         {
-          "name": "New Request",
+          "name": "Create Sub store",
           "id": "a2c52d5e-0a9e-48f6-b76c-ad8ab23b08cc",
           "protocolProfileBehavior": {
             "disableBodyPruning": true
@@ -8163,42 +8163,42 @@
   ],
   "variable": [
     {
-      "id": "c82eb942-f2b4-4b82-8d87-67ba18f9dc1f",
+      "id": "e5d4e445-ded1-4bdf-88c6-8932d66168f1",
       "key": "supplier_id",
       "value": "202"
     },
     {
-      "id": "e8f37ef4-9870-49b6-ba3a-0300b8af0102",
+      "id": "ceb810c8-37f1-49ed-88d1-0f0def1b2916",
       "key": "phone_number",
       "value": "9000000000"
     },
     {
-      "id": "1973a174-faef-4395-9394-fedfd946baaf",
+      "id": "b564eed7-298e-4363-a63e-4200d1b16a76",
       "key": "order_number",
       "value": "R546215933"
     },
     {
-      "id": "4a0e29fa-6429-4cad-b226-b5a867300b00",
+      "id": "62ec1b23-57c4-435f-8ffb-67704dc31d95",
       "key": "country_code",
       "value": "91"
     },
     {
-      "id": "bf770dd1-8617-4f18-b516-6fc2af974fb5",
+      "id": "ad7def04-80ae-4ecc-8d49-a401a1b9295b",
       "key": "access_token",
       "value": "yuN7L84Tr6-NJNSXo_7xXg"
     },
     {
-      "id": "cce85134-e354-4f05-96bb-07fecb580994",
+      "id": "e819b1b2-5fa8-44c8-9021-fa1cc6b26b34",
       "key": "client",
       "value": "c-Jg7ma01p_li4zg3mOieg"
     },
     {
-      "id": "aae9abb5-83ce-4305-817e-155a115cf469",
+      "id": "45f1c4f5-0e88-402d-b470-eab4151dcb02",
       "key": "uid",
       "value": "marrihari204@gmail.com"
     },
     {
-      "id": "45369588-d64d-427f-b942-0a82eca4a81e",
+      "id": "07a6eadb-9ca2-4d95-9908-17dd401d54d1",
       "key": "proxy_token",
       "value": "cffca7a8488362dca9fe3e7d83c0e66880c58fab20dfbacd"
     }
