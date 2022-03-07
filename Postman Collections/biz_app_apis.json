@@ -8132,6 +8132,15 @@
           "request": {
             "method": "POST",
             "header": [],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n    \"phone\": \"8111111111\",\n    \"country_code\": \"{{country_code}}\",\n    \"otp_code\": \"1234\",\n    \"app_namea\": 613,\n    \"fcm_toke1n\": \"e9lYiZBhRvemMV8jOw4GIZ:APA91bEDPIKvOJYp9XtMEpoZm-v12XBF-coz63ZXPmRFXYKlRDjKGMgRGGIzf3nikLfOm6sAncNp4qIXelWpUERUTnMBXzC5b2n48XSKVK-NJc-mOGpwP5GwFf-AJVQiECg_RpB-j9Qr\"\n}",
+              "options": {
+                "raw": {
+                  "language": "json"
+                }
+              }
+            },
             "url": "{{url}}/api/create_sub_store "
           },
           "response": []
@@ -8164,42 +8173,42 @@
   ],
   "variable": [
     {
-      "id": "3b49d41b-fb33-48de-a4af-782c8611c51e",
+      "id": "5fe1df8d-4513-4417-9fd1-33adfb7c3b65",
       "key": "supplier_id",
       "value": "202"
     },
     {
-      "id": "51f9efa7-5ee2-406f-a58a-2e3e366348f1",
+      "id": "46de6aef-11c3-49f3-b3f5-61e294254e0e",
       "key": "phone_number",
       "value": "9000000000"
     },
     {
-      "id": "be69086d-5cc0-4ae1-9bef-d798d77435c1",
+      "id": "cf0deebc-2e33-42f2-9aae-4677d8444bc9",
       "key": "order_number",
       "value": "R546215933"
     },
     {
-      "id": "02d4a559-5c65-482f-a6ec-f235c405b17a",
+      "id": "e8bade58-b742-4ffd-8434-cad1188e2df3",
       "key": "country_code",
       "value": "91"
     },
     {
-      "id": "c30d65a5-d537-4926-be5e-135acf9f161e",
+      "id": "41e88f08-ef16-47b6-8d41-729c097a2de1",
       "key": "access_token",
       "value": "yuN7L84Tr6-NJNSXo_7xXg"
     },
     {
-      "id": "63fde413-379d-41d1-8ea5-5a5637387322",
+      "id": "7d0e5b0f-dd5a-4a14-be20-d38ec229f0ba",
       "key": "client",
       "value": "c-Jg7ma01p_li4zg3mOieg"
     },
     {
-      "id": "04dba1ae-0f31-45cb-bcd1-003ffdbd5925",
+      "id": "1d1304f9-258a-436b-914b-07103442d65d",
       "key": "uid",
       "value": "marrihari204@gmail.com"
     },
     {
-      "id": "d0a846e3-deb3-4a70-960a-835bc806cd19",
+      "id": "5a844949-688e-4bd6-b653-162ffea2bf80",
       "key": "proxy_token",
       "value": "cffca7a8488362dca9fe3e7d83c0e66880c58fab20dfbacd"
     }
