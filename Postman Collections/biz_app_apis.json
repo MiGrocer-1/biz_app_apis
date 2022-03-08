@@ -8208,7 +8208,7 @@
                 },
                 {
                   "key": "state",
-                  "value": "Telangan",
+                  "value": "Telangana",
                   "type": "text"
                 },
                 {
@@ -8275,42 +8275,42 @@
   ],
   "variable": [
     {
-      "id": "d04c297b-b552-4431-bd8d-fb0652beb2b9",
+      "id": "a7cb5916-8dd2-48a5-a223-5f85bcd09646",
       "key": "supplier_id",
       "value": "202"
     },
     {
-      "id": "576ca5a7-ea9e-471a-8442-41139c127ba8",
+      "id": "d1d9a61e-12fe-46f4-b7ab-51e2f15af4bd",
       "key": "phone_number",
       "value": "9000000000"
     },
     {
-      "id": "5daf6ce2-b90b-47bc-a2cf-b59f6d1d943a",
+      "id": "73d7f302-5c08-4fd8-bc68-cfcceac287b4",
       "key": "order_number",
       "value": "R546215933"
     },
     {
-      "id": "f7bdc16a-3add-4639-9e67-747efadf4fd2",
+      "id": "c2aaaa40-d1ea-4341-b925-f01cfa254c70",
       "key": "country_code",
       "value": "91"
     },
     {
-      "id": "9e4d0cce-fcf4-4c30-89d9-3296c98d3b11",
+      "id": "d264ed15-4555-470d-8d5b-978378bcfae6",
       "key": "access_token",
       "value": "yuN7L84Tr6-NJNSXo_7xXg"
     },
     {
-      "id": "ac8a5f01-536c-4c80-8d46-e86d84b9ab59",
+      "id": "8c7e2c2d-4f99-4ac4-b765-e432c68d7127",
       "key": "client",
       "value": "c-Jg7ma01p_li4zg3mOieg"
     },
     {
-      "id": "07780c89-bd6a-4b4a-874d-ba300eb8ec82",
+      "id": "ff83fd2a-4380-4e63-9ab8-8408d3c89a6e",
       "key": "uid",
       "value": "marrihari204@gmail.com"
     },
     {
-      "id": "e44dc9c3-4c72-43b3-9db3-3f9c32f2248e",
+      "id": "fa0fbc2a-944f-4839-9824-9b4dc123a958",
       "key": "proxy_token",
       "value": "cffca7a8488362dca9fe3e7d83c0e66880c58fab20dfbacd"
     }
