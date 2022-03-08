@@ -8160,7 +8160,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n    \"phone\": \"8976232312\",\n    \"country_code\": \"{{country_code}}\",\n    \"otp_code\": \"1234\",\n    \"lat\": 17.385,\n    \"lon\": 78.4867,\n    \"state_name\": \"Telangana\",\n    \"email\": \"adfdfdf@gmail.com\",\n    \"type\": \"Grocery\",\n    \"address\": \"S Manohar (Cicha), Hashmath Gunj, Subhash Nagar, Badi Chowdi, Kachiguda, Hyderabad, Telangana 500095, India\",\n    \"state\": \"Telangana\",\n    \"area\": \"Kachiguda\",\n    \"zipcode\": \"500095\",\n    \"mandal\": \"Hyderabad\",\n    \"district\": \"Hyderabad\",\n    \"store_name\": \"sdasdf\",\n    \"from_store_id\": \n}",
+              "raw": "{\n    \"phone\": \"8976232312\",\n    \"country_code\": \"{{country_code}}\",\n    \"otp_code\": \"1234\",\n    \"lat\": 17.385,\n    \"lon\": 78.4867,\n    \"state_name\": \"Telangana\",\n    \"email\": \"adfdfdf@gmail.com\",\n    \"type\": \"Grocery\",\n    \"address\": \"S Manohar (Cicha), Hashmath Gunj, Subhash Nagar, Badi Chowdi, Kachiguda, Hyderabad, Telangana 500095, India\",\n    \"state\": \"Telangana\",\n    \"area\": \"Kachiguda\",\n    \"zipcode\": \"500095\",\n    \"mandal\": \"Hyderabad\",\n    \"district\": \"Hyderabad\",\n    \"store_name\": \"sdasdf\",\n    \"from_store_id\": 202\n}",
               "options": {
                 "raw": {
                   "language": "json"
@@ -8199,42 +8199,42 @@
   ],
   "variable": [
     {
-      "id": "2cdb44ab-3708-437e-b199-b4a4fdd4fcf1",
+      "id": "192f9ba5-f015-48ba-8ebc-662a9e826cda",
       "key": "supplier_id",
       "value": "202"
     },
     {
-      "id": "c093b3d5-aa28-4f63-b757-91bfe672a4ed",
+      "id": "28fba51f-1a5f-46ad-bee6-0f08f4462cff",
       "key": "phone_number",
       "value": "9000000000"
     },
     {
-      "id": "cebea4aa-0166-481f-8a2e-7b891b9cd94b",
+      "id": "ee221757-48bc-44d6-8f61-7a46e5183720",
       "key": "order_number",
       "value": "R546215933"
     },
     {
-      "id": "73c85d86-b13e-4323-9d72-ef726daee8b2",
+      "id": "86543ea6-0cc0-47f8-a097-9f0bccdbdb0a",
       "key": "country_code",
       "value": "91"
     },
     {
-      "id": "8fdd34e6-6a56-4cbf-a821-2fe99ae78c4b",
+      "id": "b6a04d05-38b3-4011-af88-67e2c721dffd",
       "key": "access_token",
       "value": "yuN7L84Tr6-NJNSXo_7xXg"
     },
     {
-      "id": "638f1182-7c19-45dc-9bb1-da95dfc6747b",
+      "id": "ef6f17cc-dae9-4cb4-bd27-d7f211bdefe3",
       "key": "client",
       "value": "c-Jg7ma01p_li4zg3mOieg"
     },
     {
-      "id": "01c0b7d7-d2ff-4b84-b1eb-6ddce81a60e0",
+      "id": "68ea52ed-2c9a-4c88-9971-6536b81563c7",
       "key": "uid",
       "value": "marrihari204@gmail.com"
     },
     {
-      "id": "83861d33-4552-4fbd-ab9f-c5089b5aacc5",
+      "id": "6bf7d706-d6de-4e24-b746-698b4b38018a",
       "key": "proxy_token",
       "value": "cffca7a8488362dca9fe3e7d83c0e66880c58fab20dfbacd"
     }
